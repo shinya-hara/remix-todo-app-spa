@@ -1,6 +1,9 @@
-# Welcome to Remix + Vite!
+# remix-todo-app-spa
 
-📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/guides/vite) for details on supported features.
+This is a TODO application implemented using Remix in SPA mode.
+
+- [Remix docs](https://remix.run/docs)
+- [Remix SPA Mode](https://remix.run/docs/en/main/guides/spa-mode)
 
 ## Development
 
